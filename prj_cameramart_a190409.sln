@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_cameramart_a190409", "prj_cameramart_a190409\prj_cameramart_a190409.vbproj", "{32695EA0-471B-4378-96B5-19E469D7FA0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_PrimeCameraMart", "Setup_PrimeCameraMart\Setup_PrimeCameraMart.vdproj", "{C8D49F77-8AEA-4A74-B99A-D5C187F00422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32695EA0-471B-4378-96B5-19E469D7FA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32695EA0-471B-4378-96B5-19E469D7FA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32695EA0-471B-4378-96B5-19E469D7FA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32695EA0-471B-4378-96B5-19E469D7FA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D49F77-8AEA-4A74-B99A-D5C187F00422}.Debug|Any CPU.ActiveCfg = Debug
+		{C8D49F77-8AEA-4A74-B99A-D5C187F00422}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0C9160-CD24-49B2-865A-3A0199FA0769}
+	EndGlobalSection
+EndGlobal
