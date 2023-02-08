@@ -1,4 +1,4 @@
-# ADVANCED DATABASE FINAL PROJECT
+# ADVANCED DATABASE YEAR 2 FINAL PROJECT
 
 ![splashscreen](https://github.com/khushaalan/prj_cameramart_a190409/blob/main/screenshots/splashscreen.png)
 ![mainmenu](https://github.com/khushaalan/prj_cameramart_a190409/blob/main/screenshots/mainmenu.png)
